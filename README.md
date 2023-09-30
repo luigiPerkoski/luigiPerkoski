@@ -1,3 +1,3 @@
 
 
-[![Seguidores](https://img.shields.io/github/followers/luigiPerkoski?style=social)](https://github.com/luigiPerkoski)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luigiPerkoski)](https://github.com/luigiPerkoski/github-readme-stats)
