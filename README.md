@@ -1,6 +1,6 @@
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luigiPerkoski&show_icons=true&theme=dark)](https://github.com/luigiPerkoski/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luigiPerkoski&show_icons=true&theme=dark&count_private=true)](https://github.com/luigiPerkoski/github-readme-stats)
 <br>
 <br>
 
@@ -14,7 +14,7 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigiPerkoski&hide_title=true&theme=dark)](https://github.com/luigiPerkoski/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigiPerkoski&hide_title=true&theme=dark&count_private=true)](https://github.com/luigiPerkoski/github-readme-stats&theme=dark)
 
 <br>
 <br>
